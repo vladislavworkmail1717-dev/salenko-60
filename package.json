@@ -1,0 +1,16 @@
+{
+  "name": "salenko-60",
+  "version": "1.0.0",
+  "description": "ДЗ 60.1 — RESTful API на Express.js (users, articles) з архітектурою MVC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["express", "rest", "api", "mvc"],
+  "author": "Vladislav Salenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
